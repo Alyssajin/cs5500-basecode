@@ -10,7 +10,7 @@ It serves as a roadmap to ensure alignment and effective collaboration throughou
   1. Alyssa (Nuanxin) Jin
   2. Bo Pang
   3. Cathy (Cong) Fu
-  4. __________________________
+  4. Steven Hu_________________
   5. __________________________
 
 ## Team Purpose and Objectives
